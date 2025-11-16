@@ -1,4 +1,4 @@
-import "./styels.css";
+import "./styles.css";
 
 export default function Header() {
 

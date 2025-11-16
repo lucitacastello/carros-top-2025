@@ -1,0 +1,16 @@
+import "./styles.css"
+export default function Button(){
+
+
+    return(
+
+        <div>
+            
+            Comprar
+            
+            </div>
+
+
+        // --ct-color-bg-tertiary
+    )
+}
