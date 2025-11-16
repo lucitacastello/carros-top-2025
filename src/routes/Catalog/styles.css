@@ -7,11 +7,10 @@
 }
 
 .ct-search-bar-container {
-    margin-bottom: 40px ;
-  border: 1px solid red;
+  margin-bottom: 40px;
 }
 
-.ct-catalogs-card-container {
+.ct-catalog-cards-container{
   border: 1px solid blue;
 }
 
