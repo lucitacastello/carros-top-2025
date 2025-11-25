@@ -4,13 +4,11 @@ export default function Button(){
 
     return(
 
-        <div>
+        <div className="ct-button">
             
             Comprar
             
             </div>
-
-
-        // --ct-color-bg-tertiary
+       
     )
 }
